@@ -5,16 +5,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid " Built-in Groups"
-msgstr ""
+msgstr " 기본 그룹
 
 msgid " Builtin Users"
-msgstr ""
+msgstr " 기본 유저"
 
 msgid " Check Notifications for more details."
-msgstr ""
+msgstr " 알림을 확인해 더 많은 정보를 확인해 보세요."
 
 msgid " Download Updates"
-msgstr ""
+msgstr " 업데이트 다운로드하기"
 
 msgid " First vdev has "
 msgstr ""
@@ -26,13 +26,13 @@ msgid " KiB."
 msgstr ""
 
 msgid " Please click the button below to add "
-msgstr ""
+msgstr "추가하려면 아래의 버튼을 클릭하세요."
 
 msgid " Plugin"
-msgstr ""
+msgstr " 플러그인"
 
 msgid " Service"
-msgstr ""
+msgstr " 서비스"
 
 msgid ""
 " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network "
@@ -52,7 +52,7 @@ msgid ""
 msgstr ""
 
 msgid " and "
-msgstr ""
+msgstr " 그리고 "
 
 msgid " and will be disrupted if the pool is detached:"
 msgstr ""
@@ -70,13 +70,13 @@ msgid " but datastore "
 msgstr ""
 
 msgid " day, "
-msgstr ""
+msgstr " 일,"
 
 msgid " days, "
-msgstr ""
+msgstr " 일,"
 
 msgid " disks"
-msgstr ""
+msgstr " 디스크들"
 
 msgid " disks, new vdev has "
 msgstr ""
@@ -102,25 +102,25 @@ msgid ""
 msgstr ""
 
 msgid " minute"
-msgstr ""
+msgstr " 분"
 
 msgid " minutes"
-msgstr ""
+msgstr " 분"
 
 msgid " official plugins"
-msgstr ""
+msgstr " 공식 플러그인"
 
 msgid " on pool "
 msgstr ""
 
 msgid " seconds"
-msgstr ""
+msgstr " 초"
 
 msgid " seconds."
-msgstr ""
+msgstr " 초"
 
 msgid " service has been enabled."
-msgstr ""
+msgstr " 서비스가 활성화되었습니다."
 
 msgid " should be at least "
 msgstr ""
@@ -129,22 +129,22 @@ msgid " should be no more than "
 msgstr ""
 
 msgid " successfully saved."
-msgstr ""
+msgstr " 성공적으로 저장되었습니다."
 
 msgid " successfully unlocked"
-msgstr ""
+msgstr " 성공적으로 풀렸습니다."
 
 msgid " system is powered on and connected to the network."
-msgstr ""
+msgstr " 시스템의 전원이 켜져있고 네트워크에 연결되어 있습니다."
 
 msgid " to include all "
 msgstr ""
 
 msgid " update successful"
-msgstr ""
+msgstr " 성공적으로 업데이트하였습니다."
 
 msgid " updated."
-msgstr ""
+msgstr " 업데이트함."
 
 msgid " yet."
 msgstr ""
@@ -160,25 +160,25 @@ msgid ""
 msgstr ""
 
 msgid "'. All data on that pool was destroyed."
-msgstr ""
+msgstr "'. 풀에 있는 모든 데이터가 제거되었습니다."
 
 msgid "(24 Hours)"
-msgstr ""
+msgstr "(24 시간)"
 
 msgid "(Examples: 500 KiB, 500M, 2 TB)"
 msgstr ""
 
 msgid "(Legacy Encryption)"
-msgstr ""
+msgstr "(레거시 암호화)"
 
 msgid "(No description)"
-msgstr ""
+msgstr "(설명 없음)"
 
 msgid "(Remove pool from database)"
-msgstr ""
+msgstr "(데이터베이스에서 풀 제거하기)"
 
 msgid "(System Dataset Pool)"
-msgstr ""
+msgstr "(시스템 데이터셋 풀)"
 
 msgid "(top-right), then"
 msgstr ""
@@ -193,7 +193,7 @@ msgid ". At least one is required."
 msgstr ""
 
 msgid ". Is this correct?"
-msgstr ""
+msgstr ". 이 것이 정확합니까?"
 
 msgid "... Make sure the "
 msgstr ""
@@ -202,34 +202,34 @@ msgid "0=Disabled, blank=inherit"
 msgstr ""
 
 msgid "20 characters is the maximum length."
-msgstr ""
+msgstr "최대 길이는 20자 입니다."
 
 msgid "2FA"
-msgstr ""
+msgstr "이중인증"
 
 msgid ": Automatic update check failed. Please check system network settings."
-msgstr ""
+msgstr ": 자동 업데이트 확인에 실패했습니다. 시스템 네트워크 설정을 확인하여 주십시오."
 
 msgid "</b> plugin deletes all data and snapshots stored with it."
 msgstr ""
 
 msgid "</i> cannot be running when deleting a mountpoint."
-msgstr ""
+msgstr "</i> 마운트포인트를 삭제할 때는 실행할 수 없습니다."
 
 msgid "</i> has started."
-msgstr ""
+msgstr "</i> 가 시작되었습니다."
 
 msgid "</i> now?"
 msgstr ""
 
 msgid "</i> stopped."
-msgstr ""
+msgstr "</i> 가 멈추었습니다."
 
 msgid "</i> updated."
-msgstr ""
+msgstr "</i> 가 업데이트되었습니다."
 
 msgid "</i>. Data on the pool will not be accessible until the pool is unlocked."
-msgstr ""
+msgstr "</i>. 풀의 잠금을 해제하기 전까지 데이터에 접근할 수 없습니다."
 
 msgid ""
 "</i>. Data on the pool will not be available after export. Data on the pool "
@@ -594,7 +594,7 @@ msgid ""
 msgstr ""
 
 msgid "<strong>Dataset:</strong> "
-msgstr ""
+msgstr "<strong>데이터셋:</strong> "
 
 msgid ""
 "A User Access Token for <a href=\"https://developer.box.com/\"  "
@@ -621,7 +621,7 @@ msgid ""
 msgstr ""
 
 msgid "A pool with this name already exists."
-msgstr ""
+msgstr "같은 이름의 풀이 이미 존재합니다."
 
 msgid ""
 "A single bandwidth limit or bandwidth limit schedule in rclone format. "
@@ -651,7 +651,7 @@ msgid "A swap size of 0 is STRONGLY DISCOURAGED."
 msgstr ""
 
 msgid "A system update is in progress. "
-msgstr ""
+msgstr "시스템 업데이트가 진행중입니다."
 
 msgid ""
 "A system update is in progress. It might have been  launched in another "
@@ -724,16 +724,16 @@ msgid "AFP3 Unix Privs"
 msgstr ""
 
 msgid "API Key"
-msgstr ""
+msgstr "API 키"
 
 msgid "API Key or Password"
-msgstr ""
+msgstr "API 키 또는 비밀번호"
 
 msgid "API Keys"
-msgstr ""
+msgstr "API 키"
 
 msgid "API URL"
-msgstr ""
+msgstr "API URL"
 
 msgid "ARN"
 msgstr ""
@@ -12599,31 +12599,31 @@ msgid "Syslog Transport"
 msgstr ""
 
 msgid "System"
-msgstr ""
+msgstr "시스템"
 
 msgid "System Clock"
-msgstr ""
+msgstr "시스템 시계"
 
 msgid "System Dataset"
-msgstr ""
+msgstr "시스템 데이터셋"
 
 msgid "System Dataset Pool"
-msgstr ""
+msgstr "시스템 데이터셋 풀"
 
 msgid "System Info"
-msgstr ""
+msgstr "시스템 정보"
 
 msgid "System Information"
-msgstr ""
+msgstr "시스템 정보"
 
 msgid "System Serial"
-msgstr ""
+msgstr "시스템 시리얼"
 
 msgid "System Settings"
-msgstr ""
+msgstr "시스템 설정"
 
 msgid "System Time Zone:"
-msgstr ""
+msgstr "시스템 시간대"
 
 msgid "System domain name, like <i>example.com</i>"
 msgstr ""
@@ -14143,22 +14143,22 @@ msgid ""
 msgstr ""
 
 msgid "Upgrading..."
-msgstr ""
+msgstr "업그레이드 하는중..."
 
 msgid "Upload"
-msgstr ""
+msgstr "업로드"
 
 msgid "Upload Chunk Size (MiB)"
 msgstr ""
 
 msgid "Upload Config"
-msgstr ""
+msgstr "설정 업로드"
 
 msgid "Upload File"
-msgstr ""
+msgstr "파일 업로드"
 
 msgid "Upload Key file"
-msgstr ""
+msgstr "키 파일 업로드"
 
 msgid ""
 "Upload a Google  <a "
@@ -14169,13 +14169,13 @@ msgid ""
 msgstr ""
 
 msgid "Upload an installer image file"
-msgstr ""
+msgstr "설치 이미지 파일 업로드하기"
 
 msgid "Uploading file..."
-msgstr ""
+msgstr "파일 업로드중..."
 
 msgid "Uploading..."
-msgstr ""
+msgstr "업로드중..."
 
 msgid ""
 "Upsmon will wait up to this many seconds in master mode for the slaves to "
@@ -14183,16 +14183,16 @@ msgid ""
 msgstr ""
 
 msgid "Uptime"
-msgstr ""
+msgstr "업타임"
 
 msgid "Usage"
-msgstr ""
+msgstr "사용률"
 
 msgid "Usage collection"
 msgstr ""
 
 msgid "Usages"
-msgstr ""
+msgstr "사용률"
 
 msgid ""
 "Use  <a href=\"https://rclone.org/crypt/\" target=\"_blank\">rclone "
