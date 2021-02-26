@@ -1902,13 +1902,13 @@ msgid "Available Disks"
 msgstr ""
 
 msgid "Available Memory:"
-msgstr ""
+msgstr "사용 가능한 메모리:"
 
 msgid "Available Plugins"
-msgstr ""
+msgstr "사용 가능한 플러그인"
 
 msgid "Available Space"
-msgstr ""
+msgstr "사용 가능한 공간"
 
 msgid "Available Space Threshold (%)"
 msgstr ""
@@ -6524,10 +6524,10 @@ msgid ""
 msgstr ""
 
 msgid "Highest Usage"
-msgstr ""
+msgstr "최고 사용률"
 
 msgid "Highest Usage:"
-msgstr ""
+msgstr "최고 사용률:"
 
 msgid ""
 "Highest port number of the  active side listen address that is open to "
@@ -6655,10 +6655,10 @@ msgid "Hot Spare"
 msgstr ""
 
 msgid "Hottest"
-msgstr ""
+msgstr "최고도"
 
 msgid "Hottest:"
-msgstr ""
+msgstr "최고도:"
 
 msgid "Hour"
 msgstr ""
@@ -8691,7 +8691,7 @@ msgid "Number of SysV shared memory segments."
 msgstr ""
 
 msgid "Number of Threads"
-msgstr ""
+msgstr "쓰레드의 수
 
 msgid ""
 "Number of child jails allowed to be created by the jail or other jails "
@@ -12792,10 +12792,10 @@ msgid ""
 msgstr ""
 
 msgid "Temperature"
-msgstr ""
+msgstr "온도"
 
 msgid "Temperature Alerts"
-msgstr ""
+msgstr "온도 경고"
 
 msgid "Template"
 msgstr ""
@@ -14089,7 +14089,7 @@ msgid "Updated"
 msgstr ""
 
 msgid "Updates Available"
-msgstr ""
+msgstr "사용 가능한 업데이트"
 
 msgid "Updates successfully downloaded"
 msgstr ""
@@ -14971,7 +14971,7 @@ msgid "ZFS"
 msgstr ""
 
 msgid "ZFS Cache"
-msgstr ""
+msgstr "ZFS 캐쉬"
 
 msgid "ZFS Deduplication"
 msgstr ""
@@ -15454,7 +15454,7 @@ msgid "to set up configuration first."
 msgstr ""
 
 msgid "total available"
-msgstr ""
+msgstr "전체"
 
 msgid "users"
 msgstr ""
